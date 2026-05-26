@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a passionate developer with a Masters in Business Management committed to building scalable solutions to particular business problems. With expertise across multiple technologies and business domains, I thrive in collaborative environments and enjoy tackling complex challenges. I have a knack for problem solving
+I'm a passionate developer with a Masters in Business Management committed to building scalable solutions to particular business problems. With expertise across multiple technologies and business domains, I thrive in collaborative environments and enjoy tackling complex challenges. I have a knack for problem solving and I believe that everything at it's fundamentals is math, coding is math, as much as coding has changed/evolved the underlying math remains unchanged. 
 
 Operations and Decision Sciences | Strategy | Information Systems and Analytics
 
